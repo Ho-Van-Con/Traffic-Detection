@@ -1,0 +1,3 @@
+datasets/za_traffic_2020.zip
+datasets/za_traffic_2020/traffic_public_test/*
+datasets/za_traffic_2020/traffic_train/images/*
