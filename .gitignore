@@ -1,3 +1,4 @@
 datasets/za_traffic_2020.zip
 datasets/za_traffic_2020/traffic_public_test/*
 datasets/za_traffic_2020/traffic_train/images/*
+datasets/za_traffic_2020/traffic_train/train_traffic_sign_dataset.json
